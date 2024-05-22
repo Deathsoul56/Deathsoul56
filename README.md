@@ -81,6 +81,11 @@
 
 <br clear="both">
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -90,12 +95,14 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-  <h2>🐍 My Contributions 🐍</h2>
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 <hr/>
+  
+  <br/><br/><br/>
+</div>
 
 ###
