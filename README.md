@@ -61,10 +61,13 @@
   <a href="mailto:rafaelpatricioaravenamancilla@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="mailto:rafael.aravena@alu.ucm.cl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail%202&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/rafael-aravena-mancilla-727273134/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="rafa_tooie@hotmail.com" target="_blank">
+  <a href="mailto:rafa_tooie@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://financiacapital.slack.com/team/U06AM1DQH5Z" target="_blank">
