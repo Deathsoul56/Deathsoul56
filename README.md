@@ -2,17 +2,39 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+My+name+is+DeAthSoul56;+Data+Scientist/Data+Analytics;+I'm+from+Chile" />
 </h1>
 
-###
+<p align="center">
+  <strong>IA Developer | Data Scientist | Data Analytics</strong><br/>
+  Santiago, Chile
+</p>
 
-- 👀 I’m interested in Artificial Inteligence, Machine Learning, Data Science, Cloud
-- 🌱 I’m currently learning GCP, AWS, Azure, Big Querry
-- 💞️ I’m looking to collaborate on Data Science Projects
+## Sobre mi
+
+- Enfocado en IA aplicada, Data Science y analitica de datos.
+- Actualmente aprendiendo y profundizando en GCP, AWS y Azure.
+- Abierto a colaborar en proyectos de Machine Learning y Data.
+
+## Enfoque actual
+
+- Trabajando activamente en `Tienda-Comics`, `Cursos-Universitarios` y `Programming-Training`.
+- Consolidando contenido tecnico y formativo para comunidad STEM.
+- Explorando mejoras de rendimiento y buenas practicas en proyectos de Python.
+
+## Proyectos destacados
+
+- [Tienda-Comics](https://github.com/Deathsoul56/Tienda-Comics)
+- [Cursos-Universitarios](https://github.com/Deathsoul56/Cursos-Universitarios)
+- [Dividir-Cuentas](https://github.com/Deathsoul56/Dividir-Cuentas)
+
+
+## GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deathsoul56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Deathsoul56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deathsoul56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+## Tecnologias
 
 ###
 
@@ -89,6 +111,8 @@
 
 ###
 
+## Conecta conmigo
+
 <div align="left">
   <a href="https://www.youtube.com/@DeatSoul56" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -145,3 +169,5 @@
 </div>
 
 ###
+
+<p align="center"><i>"Codigo, Aprender, Autismo, Cafe."</i></p>
